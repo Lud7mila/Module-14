@@ -25,7 +25,6 @@ import re
 import config
 from crud_functions_5 import *
 
-
 router = Router()
 
 class UserState(StatesGroup):
