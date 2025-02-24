@@ -1,4 +1,3 @@
-# Задача "Продуктовая база"
 # aiogram 3.15, python 3.11
 
 from aiogram import Bot, Dispatcher, types, Router, F
